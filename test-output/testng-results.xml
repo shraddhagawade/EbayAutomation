@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="54184" started-at="2018-06-04T21:29:02Z" finished-at="2018-06-04T21:29:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="54184" started-at="2018-06-04T21:29:02Z" finished-at="2018-06-04T21:29:56Z">
+      <class name="ebaypackage.EbayExecution">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:ebaypackage.EbayExecution@29774679]" name="beforeSuite" is-config="true" duration-ms="23084" started-at="2018-06-05T02:58:39Z" finished-at="2018-06-05T02:59:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="ebayHome()[pri:1, instance:ebaypackage.EbayExecution@29774679]" name="ebayHome" duration-ms="54129" started-at="2018-06-05T02:59:02Z" finished-at="2018-06-05T02:59:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ebayHome -->
+        <test-method status="PASS" signature="ebayReview()[pri:3, instance:ebaypackage.EbayExecution@29774679]" name="ebayReview" duration-ms="16" started-at="2018-06-05T02:59:56Z" finished-at="2018-06-05T02:59:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ebayReview -->
+        <test-method status="PASS" signature="ebayLogin()[pri:2, instance:ebaypackage.EbayExecution@29774679]" name="ebayLogin" duration-ms="0" started-at="2018-06-05T02:59:56Z" finished-at="2018-06-05T02:59:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ebayLogin -->
+        <test-method status="PASS" signature="ebaySummary()[pri:4, instance:ebaypackage.EbayExecution@29774679]" name="ebaySummary" duration-ms="0" started-at="2018-06-05T02:59:56Z" finished-at="2018-06-05T02:59:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ebaySummary -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:ebaypackage.EbayExecution@29774679]" name="afterSuite" is-config="true" duration-ms="0" started-at="2018-06-05T02:59:56Z" finished-at="2018-06-05T02:59:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- ebaypackage.EbayExecution -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
